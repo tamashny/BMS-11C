@@ -1,0 +1,822 @@
+Added Component: Designator=D1(0805 LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/gnl-0603ubc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Oasis Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TO-1608BC-MYF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D2(0805 LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/to-1608bc-mre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Oasis Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TO-1608BC-MRE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D3(D2-PAK (TO-262))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ChipDip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/mbrb20100ctg-ons"; VariantName = "[No Variations]"
+Added Component: Designator=D4(sod-123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/mmsz5225b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/152/DOC001152772.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yangzhou Yangjie Electronic Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MMSZ5225B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D5(sod-123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/mmsz5225b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/152/DOC001152772.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yangzhou Yangjie Electronic Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MMSZ5225B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=J1(PBS10)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/catalog-show/pin-connectors-and-sockets?x.697=2mK&gq=гнездо+на+плату"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo connfly electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DS1023-1*10S21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=P1(3329H)
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/250/DOC000250619.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "M64X203KB40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Added Component: Designator=P2(3329H)
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/250/DOC000250619.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "M64X203KB40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_1(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/156/DOC000156781.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc817-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_2(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/156/DOC000156781.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc817-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_3(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/156/DOC000156781.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc817-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_4(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/156/DOC000156781.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc817-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_5(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/156/DOC000156781.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc817-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q2_1(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/078/DOC001078227.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc807.215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC807,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q2_2(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/078/DOC001078227.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc807.215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC807,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q2_3(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/078/DOC001078227.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc807.215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC807,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q2_4(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/078/DOC001078227.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc807.215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC807,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q2_5(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/078/DOC001078227.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc807.215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC807,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q3_1(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/156/DOC000156781.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc817-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q3_2(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/156/DOC000156781.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc817-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q3_3(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/156/DOC000156781.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc817-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q3_4(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/156/DOC000156781.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc817-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q3_5(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/156/DOC000156781.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc817-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q4_1(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/078/DOC001078227.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc807.215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC807,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q4_2(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/078/DOC001078227.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc807.215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC807,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q4_3(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/078/DOC001078227.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc807.215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC807,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q4_4(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/078/DOC001078227.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc807.215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC807,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q4_5(SOT-89)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/078/DOC001078227.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/bc807.215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC807,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(D-Pak (TO-252AA))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/292/DOC000292789.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/irlr3705zpbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IRLR3705ZTRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(D-Pak (TO-252AA))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/292/DOC000292789.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/irlr3705zpbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IRLR3705ZTRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=R1_1(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R1_2(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R1_3(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R1_4(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R1_5(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R2_1(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R2_2(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R2_3(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R2_4(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R2_5(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R3_1(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R3_2(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R3_3(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R3_4(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R3_5(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079514"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R4_1(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R4_2(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R4_3(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R4_4(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R4_5(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R5_1(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R5_2(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R5_3(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R5_4(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R5_5(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R6_1(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R6_2(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R6_3(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R6_4(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R6_5(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R7_1(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R7_2(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R7_3(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R7_4(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R7_5(2512 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC2512FR-0762RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-073K9L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-073K9L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079538"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079506"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-076K8L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R12(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079506"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-076K8L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R13(0805 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079538"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=U1_1(SOIC-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/321/DOC000321492.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/lmv358idr-pbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV358IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U1_2(SOIC-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/321/DOC000321492.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/lmv358idr-pbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV358IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U1_3(SOIC-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/321/DOC000321492.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/lmv358idr-pbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV358IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U1_4(SOIC-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/321/DOC000321492.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/lmv358idr-pbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV358IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U1_5(SOIC-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/321/DOC000321492.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/lmv358idr-pbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV358IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOIC-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/938/DOC011938774.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "ChipDip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/lm2903d-stm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=OUT1 Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=OUT2 Pin=D2-2
+Added Pin To Net: NetName=P+ Pin=D3-1
+Added Pin To Net: NetName=Out Pin=D3-2
+Added Pin To Net: NetName=P+ Pin=D3-3
+Added Pin To Net: NetName=P- Pin=D4-1
+Added Pin To Net: NetName=1IN+ Pin=D4-2
+Added Pin To Net: NetName=P- Pin=D5-1
+Added Pin To Net: NetName=2IN- Pin=D5-2
+Added Pin To Net: NetName=B1 Pin=J1-1
+Added Pin To Net: NetName=B2 Pin=J1-2
+Added Pin To Net: NetName=B3 Pin=J1-3
+Added Pin To Net: NetName=B4 Pin=J1-4
+Added Pin To Net: NetName=B5 Pin=J1-5
+Added Pin To Net: NetName=B6 Pin=J1-6
+Added Pin To Net: NetName=B7 Pin=J1-7
+Added Pin To Net: NetName=B8 Pin=J1-8
+Added Pin To Net: NetName=B9 Pin=J1-9
+Added Pin To Net: NetName=B10 Pin=J1-10
+Added Pin To Net: NetName=P- Pin=P1-1
+Added Pin To Net: NetName=1IN- Pin=P1-2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=P- Pin=P2-1
+Added Pin To Net: NetName=2IN+ Pin=P2-2
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=1OUT_1 Pin=Q1_1-1
+Added Pin To Net: NetName=NetQ1_1_2 Pin=Q1_1-2
+Added Pin To Net: NetName=B3 Pin=Q1_1-3
+Added Pin To Net: NetName=1OUT_2 Pin=Q1_2-1
+Added Pin To Net: NetName=NetQ1_2_2 Pin=Q1_2-2
+Added Pin To Net: NetName=B5 Pin=Q1_2-3
+Added Pin To Net: NetName=1OUT_3 Pin=Q1_3-1
+Added Pin To Net: NetName=NetQ1_3_2 Pin=Q1_3-2
+Added Pin To Net: NetName=B7 Pin=Q1_3-3
+Added Pin To Net: NetName=1OUT_4 Pin=Q1_4-1
+Added Pin To Net: NetName=NetQ1_4_2 Pin=Q1_4-2
+Added Pin To Net: NetName=B9 Pin=Q1_4-3
+Added Pin To Net: NetName=1OUT_5 Pin=Q1_5-1
+Added Pin To Net: NetName=NetQ1_5_2 Pin=Q1_5-2
+Added Pin To Net: NetName=B+ Pin=Q1_5-3
+Added Pin To Net: NetName=1OUT_1 Pin=Q2_1-1
+Added Pin To Net: NetName=NetQ1_1_2 Pin=Q2_1-2
+Added Pin To Net: NetName=B- Pin=Q2_1-3
+Added Pin To Net: NetName=1OUT_2 Pin=Q2_2-1
+Added Pin To Net: NetName=NetQ1_2_2 Pin=Q2_2-2
+Added Pin To Net: NetName=B2 Pin=Q2_2-3
+Added Pin To Net: NetName=1OUT_3 Pin=Q2_3-1
+Added Pin To Net: NetName=NetQ1_3_2 Pin=Q2_3-2
+Added Pin To Net: NetName=B4 Pin=Q2_3-3
+Added Pin To Net: NetName=1OUT_4 Pin=Q2_4-1
+Added Pin To Net: NetName=NetQ1_4_2 Pin=Q2_4-2
+Added Pin To Net: NetName=B6 Pin=Q2_4-3
+Added Pin To Net: NetName=1OUT_5 Pin=Q2_5-1
+Added Pin To Net: NetName=NetQ1_5_2 Pin=Q2_5-2
+Added Pin To Net: NetName=B8 Pin=Q2_5-3
+Added Pin To Net: NetName=2OUT_1 Pin=Q3_1-1
+Added Pin To Net: NetName=NetQ3_1_2 Pin=Q3_1-2
+Added Pin To Net: NetName=B3 Pin=Q3_1-3
+Added Pin To Net: NetName=2OUT_2 Pin=Q3_2-1
+Added Pin To Net: NetName=NetQ3_2_2 Pin=Q3_2-2
+Added Pin To Net: NetName=B5 Pin=Q3_2-3
+Added Pin To Net: NetName=2OUT_3 Pin=Q3_3-1
+Added Pin To Net: NetName=NetQ3_3_2 Pin=Q3_3-2
+Added Pin To Net: NetName=B7 Pin=Q3_3-3
+Added Pin To Net: NetName=2OUT_4 Pin=Q3_4-1
+Added Pin To Net: NetName=NetQ3_4_2 Pin=Q3_4-2
+Added Pin To Net: NetName=B9 Pin=Q3_4-3
+Added Pin To Net: NetName=2OUT_5 Pin=Q3_5-1
+Added Pin To Net: NetName=NetQ3_5_2 Pin=Q3_5-2
+Added Pin To Net: NetName=B+ Pin=Q3_5-3
+Added Pin To Net: NetName=2OUT_1 Pin=Q4_1-1
+Added Pin To Net: NetName=NetQ3_1_2 Pin=Q4_1-2
+Added Pin To Net: NetName=B- Pin=Q4_1-3
+Added Pin To Net: NetName=2OUT_2 Pin=Q4_2-1
+Added Pin To Net: NetName=NetQ3_2_2 Pin=Q4_2-2
+Added Pin To Net: NetName=B2 Pin=Q4_2-3
+Added Pin To Net: NetName=2OUT_3 Pin=Q4_3-1
+Added Pin To Net: NetName=NetQ3_3_2 Pin=Q4_3-2
+Added Pin To Net: NetName=B4 Pin=Q4_3-3
+Added Pin To Net: NetName=2OUT_4 Pin=Q4_4-1
+Added Pin To Net: NetName=NetQ3_4_2 Pin=Q4_4-2
+Added Pin To Net: NetName=B6 Pin=Q4_4-3
+Added Pin To Net: NetName=2OUT_5 Pin=Q4_5-1
+Added Pin To Net: NetName=NetQ3_5_2 Pin=Q4_5-2
+Added Pin To Net: NetName=B8 Pin=Q4_5-3
+Added Pin To Net: NetName=OUT1 Pin=Q5-1
+Added Pin To Net: NetName=Out Pin=Q5-2
+Added Pin To Net: NetName=P+ Pin=Q5-3
+Added Pin To Net: NetName=OUT2 Pin=Q6-1
+Added Pin To Net: NetName=P+ Pin=Q6-2
+Added Pin To Net: NetName=Out Pin=Q6-3
+Added Pin To Net: NetName=2IN+_1 Pin=R1_1-1
+Added Pin To Net: NetName=B3 Pin=R1_1-2
+Added Pin To Net: NetName=2IN+_2 Pin=R1_2-1
+Added Pin To Net: NetName=B5 Pin=R1_2-2
+Added Pin To Net: NetName=2IN+_3 Pin=R1_3-1
+Added Pin To Net: NetName=B7 Pin=R1_3-2
+Added Pin To Net: NetName=2IN+_4 Pin=R1_4-1
+Added Pin To Net: NetName=B9 Pin=R1_4-2
+Added Pin To Net: NetName=2IN+_5 Pin=R1_5-1
+Added Pin To Net: NetName=B+ Pin=R1_5-2
+Added Pin To Net: NetName=1IN+_1 Pin=R2_1-1
+Added Pin To Net: NetName=2IN+_1 Pin=R2_1-2
+Added Pin To Net: NetName=1IN+_2 Pin=R2_2-1
+Added Pin To Net: NetName=2IN+_2 Pin=R2_2-2
+Added Pin To Net: NetName=1IN+_3 Pin=R2_3-1
+Added Pin To Net: NetName=2IN+_3 Pin=R2_3-2
+Added Pin To Net: NetName=1IN+_4 Pin=R2_4-1
+Added Pin To Net: NetName=2IN+_4 Pin=R2_4-2
+Added Pin To Net: NetName=1IN+_5 Pin=R2_5-1
+Added Pin To Net: NetName=2IN+_5 Pin=R2_5-2
+Added Pin To Net: NetName=B- Pin=R3_1-1
+Added Pin To Net: NetName=1IN+_1 Pin=R3_1-2
+Added Pin To Net: NetName=B2 Pin=R3_2-1
+Added Pin To Net: NetName=1IN+_2 Pin=R3_2-2
+Added Pin To Net: NetName=B4 Pin=R3_3-1
+Added Pin To Net: NetName=1IN+_3 Pin=R3_3-2
+Added Pin To Net: NetName=B6 Pin=R3_4-1
+Added Pin To Net: NetName=1IN+_4 Pin=R3_4-2
+Added Pin To Net: NetName=B8 Pin=R3_5-1
+Added Pin To Net: NetName=1IN+_5 Pin=R3_5-2
+Added Pin To Net: NetName=NetQ1_1_2 Pin=R4_1-1
+Added Pin To Net: NetName=B1 Pin=R4_1-2
+Added Pin To Net: NetName=NetQ1_2_2 Pin=R4_2-1
+Added Pin To Net: NetName=B3 Pin=R4_2-2
+Added Pin To Net: NetName=NetQ1_3_2 Pin=R4_3-1
+Added Pin To Net: NetName=B5 Pin=R4_3-2
+Added Pin To Net: NetName=NetQ1_4_2 Pin=R4_4-1
+Added Pin To Net: NetName=B7 Pin=R4_4-2
+Added Pin To Net: NetName=NetQ1_5_2 Pin=R4_5-1
+Added Pin To Net: NetName=B9 Pin=R4_5-2
+Added Pin To Net: NetName=NetQ1_1_2 Pin=R5_1-1
+Added Pin To Net: NetName=B1 Pin=R5_1-2
+Added Pin To Net: NetName=NetQ1_2_2 Pin=R5_2-1
+Added Pin To Net: NetName=B3 Pin=R5_2-2
+Added Pin To Net: NetName=NetQ1_3_2 Pin=R5_3-1
+Added Pin To Net: NetName=B5 Pin=R5_3-2
+Added Pin To Net: NetName=NetQ1_4_2 Pin=R5_4-1
+Added Pin To Net: NetName=B7 Pin=R5_4-2
+Added Pin To Net: NetName=NetQ1_5_2 Pin=R5_5-1
+Added Pin To Net: NetName=B9 Pin=R5_5-2
+Added Pin To Net: NetName=NetQ3_1_2 Pin=R6_1-1
+Added Pin To Net: NetName=B2 Pin=R6_1-2
+Added Pin To Net: NetName=NetQ3_2_2 Pin=R6_2-1
+Added Pin To Net: NetName=B4 Pin=R6_2-2
+Added Pin To Net: NetName=NetQ3_3_2 Pin=R6_3-1
+Added Pin To Net: NetName=B6 Pin=R6_3-2
+Added Pin To Net: NetName=NetQ3_4_2 Pin=R6_4-1
+Added Pin To Net: NetName=B8 Pin=R6_4-2
+Added Pin To Net: NetName=NetQ3_5_2 Pin=R6_5-1
+Added Pin To Net: NetName=B10 Pin=R6_5-2
+Added Pin To Net: NetName=NetQ3_1_2 Pin=R7_1-1
+Added Pin To Net: NetName=B2 Pin=R7_1-2
+Added Pin To Net: NetName=NetQ3_2_2 Pin=R7_2-1
+Added Pin To Net: NetName=B4 Pin=R7_2-2
+Added Pin To Net: NetName=NetQ3_3_2 Pin=R7_3-1
+Added Pin To Net: NetName=B6 Pin=R7_3-2
+Added Pin To Net: NetName=NetQ3_4_2 Pin=R7_4-1
+Added Pin To Net: NetName=B8 Pin=R7_4-2
+Added Pin To Net: NetName=NetQ3_5_2 Pin=R7_5-1
+Added Pin To Net: NetName=B10 Pin=R7_5-2
+Added Pin To Net: NetName=NetD1_1 Pin=R8-1
+Added Pin To Net: NetName=P4 Pin=R8-2
+Added Pin To Net: NetName=NetD2_1 Pin=R9-1
+Added Pin To Net: NetName=P4 Pin=R9-2
+Added Pin To Net: NetName=NetP1_3 Pin=R10-1
+Added Pin To Net: NetName=P+ Pin=R10-2
+Added Pin To Net: NetName=1IN+ Pin=R11-1
+Added Pin To Net: NetName=P4 Pin=R11-2
+Added Pin To Net: NetName=2IN- Pin=R12-1
+Added Pin To Net: NetName=P4 Pin=R12-2
+Added Pin To Net: NetName=NetP2_3 Pin=R13-1
+Added Pin To Net: NetName=P+ Pin=R13-2
+Added Pin To Net: NetName=1OUT_1 Pin=U1_1-1
+Added Pin To Net: NetName=B1 Pin=U1_1-2
+Added Pin To Net: NetName=1IN+_1 Pin=U1_1-3
+Added Pin To Net: NetName=B- Pin=U1_1-4
+Added Pin To Net: NetName=2IN+_1 Pin=U1_1-5
+Added Pin To Net: NetName=B2 Pin=U1_1-6
+Added Pin To Net: NetName=2OUT_1 Pin=U1_1-7
+Added Pin To Net: NetName=B3 Pin=U1_1-8
+Added Pin To Net: NetName=1OUT_2 Pin=U1_2-1
+Added Pin To Net: NetName=B3 Pin=U1_2-2
+Added Pin To Net: NetName=1IN+_2 Pin=U1_2-3
+Added Pin To Net: NetName=B2 Pin=U1_2-4
+Added Pin To Net: NetName=2IN+_2 Pin=U1_2-5
+Added Pin To Net: NetName=B4 Pin=U1_2-6
+Added Pin To Net: NetName=2OUT_2 Pin=U1_2-7
+Added Pin To Net: NetName=B5 Pin=U1_2-8
+Added Pin To Net: NetName=1OUT_3 Pin=U1_3-1
+Added Pin To Net: NetName=B5 Pin=U1_3-2
+Added Pin To Net: NetName=1IN+_3 Pin=U1_3-3
+Added Pin To Net: NetName=B4 Pin=U1_3-4
+Added Pin To Net: NetName=2IN+_3 Pin=U1_3-5
+Added Pin To Net: NetName=B6 Pin=U1_3-6
+Added Pin To Net: NetName=2OUT_3 Pin=U1_3-7
+Added Pin To Net: NetName=B7 Pin=U1_3-8
+Added Pin To Net: NetName=1OUT_4 Pin=U1_4-1
+Added Pin To Net: NetName=B7 Pin=U1_4-2
+Added Pin To Net: NetName=1IN+_4 Pin=U1_4-3
+Added Pin To Net: NetName=B6 Pin=U1_4-4
+Added Pin To Net: NetName=2IN+_4 Pin=U1_4-5
+Added Pin To Net: NetName=B8 Pin=U1_4-6
+Added Pin To Net: NetName=2OUT_4 Pin=U1_4-7
+Added Pin To Net: NetName=B9 Pin=U1_4-8
+Added Pin To Net: NetName=1OUT_5 Pin=U1_5-1
+Added Pin To Net: NetName=B9 Pin=U1_5-2
+Added Pin To Net: NetName=1IN+_5 Pin=U1_5-3
+Added Pin To Net: NetName=B8 Pin=U1_5-4
+Added Pin To Net: NetName=2IN+_5 Pin=U1_5-5
+Added Pin To Net: NetName=B10 Pin=U1_5-6
+Added Pin To Net: NetName=2OUT_5 Pin=U1_5-7
+Added Pin To Net: NetName=B+ Pin=U1_5-8
+Added Pin To Net: NetName=OUT1 Pin=U2-1
+Added Pin To Net: NetName=1IN- Pin=U2-2
+Added Pin To Net: NetName=1IN+ Pin=U2-3
+Added Pin To Net: NetName=P- Pin=U2-4
+Added Pin To Net: NetName=2IN+ Pin=U2-5
+Added Pin To Net: NetName=2IN- Pin=U2-6
+Added Pin To Net: NetName=OUT2 Pin=U2-7
+Added Pin To Net: NetName=P4 Pin=U2-8
+Added Member To Class: ClassName=BMS Member=Component D1 LedB
+Added Member To Class: ClassName=BMS Member=Component D2 LedR
+Added Member To Class: ClassName=BMS Member=Component D3 Diode Shottky
+Added Member To Class: ClassName=BMS Member=Component D4 Zener 3V
+Added Member To Class: ClassName=BMS Member=Component D5 Zener 3V
+Added Member To Class: ClassName=BMS Member=Component J1 PBS 10x1
+Added Member To Class: ClassName=BMS Member=Component P1 3329H
+Added Member To Class: ClassName=BMS Member=Component P2 3329H
+Added Member To Class: ClassName=bal1 Member=Component Q1_1 (Q1) BCX54-16
+Added Member To Class: ClassName=bal2 Member=Component Q1_2 (Q1) BCX54-16
+Added Member To Class: ClassName=bal3 Member=Component Q1_3 (Q1) BCX54-16
+Added Member To Class: ClassName=bal4 Member=Component Q1_4 (Q1) BCX54-16
+Added Member To Class: ClassName=bal5 Member=Component Q1_5 (Q1) BCX54-16
+Added Member To Class: ClassName=bal1 Member=Component Q2_1 (Q2) BCX51-16
+Added Member To Class: ClassName=bal2 Member=Component Q2_2 (Q2) BCX51-16
+Added Member To Class: ClassName=bal3 Member=Component Q2_3 (Q2) BCX51-16
+Added Member To Class: ClassName=bal4 Member=Component Q2_4 (Q2) BCX51-16
+Added Member To Class: ClassName=bal5 Member=Component Q2_5 (Q2) BCX51-16
+Added Member To Class: ClassName=bal1 Member=Component Q3_1 (Q3) BCX54-16
+Added Member To Class: ClassName=bal2 Member=Component Q3_2 (Q3) BCX54-16
+Added Member To Class: ClassName=bal3 Member=Component Q3_3 (Q3) BCX54-16
+Added Member To Class: ClassName=bal4 Member=Component Q3_4 (Q3) BCX54-16
+Added Member To Class: ClassName=bal5 Member=Component Q3_5 (Q3) BCX54-16
+Added Member To Class: ClassName=bal1 Member=Component Q4_1 (Q4) BCX51-16
+Added Member To Class: ClassName=bal2 Member=Component Q4_2 (Q4) BCX51-16
+Added Member To Class: ClassName=bal3 Member=Component Q4_3 (Q4) BCX51-16
+Added Member To Class: ClassName=bal4 Member=Component Q4_4 (Q4) BCX51-16
+Added Member To Class: ClassName=bal5 Member=Component Q4_5 (Q4) BCX51-16
+Added Member To Class: ClassName=BMS Member=Component Q5 MOSFET-N
+Added Member To Class: ClassName=BMS Member=Component Q6 MOSFET-N
+Added Member To Class: ClassName=bal1 Member=Component R1_1 (R1) 10k
+Added Member To Class: ClassName=bal2 Member=Component R1_2 (R1) 10k
+Added Member To Class: ClassName=bal3 Member=Component R1_3 (R1) 10k
+Added Member To Class: ClassName=bal4 Member=Component R1_4 (R1) 10k
+Added Member To Class: ClassName=bal5 Member=Component R1_5 (R1) 10k
+Added Member To Class: ClassName=bal1 Member=Component R2_1 (R2) 10k
+Added Member To Class: ClassName=bal2 Member=Component R2_2 (R2) 10k
+Added Member To Class: ClassName=bal3 Member=Component R2_3 (R2) 10k
+Added Member To Class: ClassName=bal4 Member=Component R2_4 (R2) 10k
+Added Member To Class: ClassName=bal5 Member=Component R2_5 (R2) 10k
+Added Member To Class: ClassName=bal1 Member=Component R3_1 (R3) 10k
+Added Member To Class: ClassName=bal2 Member=Component R3_2 (R3) 10k
+Added Member To Class: ClassName=bal3 Member=Component R3_3 (R3) 10k
+Added Member To Class: ClassName=bal4 Member=Component R3_4 (R3) 10k
+Added Member To Class: ClassName=bal5 Member=Component R3_5 (R3) 10k
+Added Member To Class: ClassName=bal1 Member=Component R4_1 (R4) 62R
+Added Member To Class: ClassName=bal2 Member=Component R4_2 (R4) 62R
+Added Member To Class: ClassName=bal3 Member=Component R4_3 (R4) 62R
+Added Member To Class: ClassName=bal4 Member=Component R4_4 (R4) 62R
+Added Member To Class: ClassName=bal5 Member=Component R4_5 (R4) 62R
+Added Member To Class: ClassName=bal1 Member=Component R5_1 (R5) 62R
+Added Member To Class: ClassName=bal2 Member=Component R5_2 (R5) 62R
+Added Member To Class: ClassName=bal3 Member=Component R5_3 (R5) 62R
+Added Member To Class: ClassName=bal4 Member=Component R5_4 (R5) 62R
+Added Member To Class: ClassName=bal5 Member=Component R5_5 (R5) 62R
+Added Member To Class: ClassName=bal1 Member=Component R6_1 (R6) 62R
+Added Member To Class: ClassName=bal2 Member=Component R6_2 (R6) 62R
+Added Member To Class: ClassName=bal3 Member=Component R6_3 (R6) 62R
+Added Member To Class: ClassName=bal4 Member=Component R6_4 (R6) 62R
+Added Member To Class: ClassName=bal5 Member=Component R6_5 (R6) 62R
+Added Member To Class: ClassName=bal1 Member=Component R7_1 (R7) 62R
+Added Member To Class: ClassName=bal2 Member=Component R7_2 (R7) 62R
+Added Member To Class: ClassName=bal3 Member=Component R7_3 (R7) 62R
+Added Member To Class: ClassName=bal4 Member=Component R7_4 (R7) 62R
+Added Member To Class: ClassName=bal5 Member=Component R7_5 (R7) 62R
+Added Member To Class: ClassName=BMS Member=Component R8 1k
+Added Member To Class: ClassName=BMS Member=Component R9 1k
+Added Member To Class: ClassName=BMS Member=Component R10 Res 100k
+Added Member To Class: ClassName=BMS Member=Component R11 4k
+Added Member To Class: ClassName=BMS Member=Component R12 4k
+Added Member To Class: ClassName=BMS Member=Component R13 Res 100k
+Added Member To Class: ClassName=bal1 Member=Component U1_1 (U1) OpAmp
+Added Member To Class: ClassName=bal2 Member=Component U1_2 (U1) OpAmp
+Added Member To Class: ClassName=bal3 Member=Component U1_3 (U1) OpAmp
+Added Member To Class: ClassName=bal4 Member=Component U1_4 (U1) OpAmp
+Added Member To Class: ClassName=bal5 Member=Component U1_5 (U1) OpAmp
+Added Member To Class: ClassName=BMS Member=Component U2 LM290
+Added Room: Name=bal1
+Added Room: Name=bal2
+Added Room: Name=bal3
+Added Room: Name=bal4
+Added Room: Name=bal5
+Added Room: Name=BMS

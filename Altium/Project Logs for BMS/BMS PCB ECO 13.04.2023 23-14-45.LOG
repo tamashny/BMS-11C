@@ -1,0 +1,112 @@
+Removed Pin From Net: NetName=1IN- Pin=U?-2
+Removed Pin From Net: NetName=1IN+ Pin=U?-3
+Removed Pin From Net: NetName=2IN-A Pin=U?-4
+Removed Pin From Net: NetName=2IN-A Pin=U?-5
+Removed Member From Class: ClassName=BMS Member=U?
+Change Component Comment : Designator=R? Old Comment=1.6k New Comment=1k
+Change Component Comment : Designator=R? Old Comment=1.6k New Comment=1k
+Change Component Comment : Designator=R? Old Comment=7.5k New Comment=4k
+Change Component Comment : Designator=R? Old Comment=7.5k New Comment=4k
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Added Component: Designator=Q5(D-Pak (TO-252AA))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/292/DOC000292789.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/irlr3705zpbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IRLR3705ZTRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(D-Pak (TO-252AA))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/292/DOC000292789.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/irlr3705zpbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IRLR3705ZTRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(D-Pak (TO-252AA))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/292/DOC000292789.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/irlr3705zpbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IRLR3705ZTRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(D-Pak (TO-252AA))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/292/DOC000292789.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/irlr3705zpbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IRLR3705ZTRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistor"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOIC-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/938/DOC011938774.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "ChipDip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/lm2903d-stm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1IN-A Pin=Q5-2
+Added Pin To Net: NetName=1IN-A Pin=Q6-3
+Added Pin To Net: NetName=1IN-A Pin=Q7-2
+Added Pin To Net: NetName=1IN-A Pin=Q8-2
+Added Pin To Net: NetName=1IN- Pin=U2-2
+Added Pin To Net: NetName=1IN+ Pin=U2-3
+Added Pin To Net: NetName=2IN-A Pin=U2-4
+Added Pin To Net: NetName=2IN+ Pin=U2-5
+Added Pin To Net: NetName=2IN- Pin=U2-6
+Added Pin To Net: NetName=2IN-A Pin=U2-8
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetP?_3 New Net Name=NetP1_3
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R9-1
+Added Pin To Net: NetName=NetD2_1 Pin=R11-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_3 Pin=R15-1
+Added Net: Name=NetP2_3
+Added Pin To Net: NetName=OUT1 Pin=D1-2
+Added Pin To Net: NetName=OUT1 Pin=Q6-1
+Added Pin To Net: NetName=OUT1 Pin=R10-1
+Added Pin To Net: NetName=OUT1 Pin=U2-1
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=D2-2
+Added Pin To Net: NetName=OUT2 Pin=Q5-1
+Added Pin To Net: NetName=OUT2 Pin=Q7-1
+Added Pin To Net: NetName=OUT2 Pin=Q8-1
+Added Pin To Net: NetName=OUT2 Pin=R11-1
+Added Pin To Net: NetName=OUT2 Pin=U2-7
+Added Net: Name=OUT2
+Added Pin To Net: NetName=Out Pin=Q5-3
+Added Pin To Net: NetName=Out Pin=Q6-2
+Added Pin To Net: NetName=Out Pin=Q7-3
+Added Pin To Net: NetName=Out Pin=Q8-3
+Added Net: Name=Out
+Added Member To Class: ClassName=BMS Member=Component D2 LedR
+Added Member To Class: ClassName=BMS Member=Component D3 Zener 3V
+Added Member To Class: ClassName=BMS Member=Component D4 Zener 3V
+Added Member To Class: ClassName=BMS Member=Component P1 3329H
+Added Member To Class: ClassName=BMS Member=Component Q5 MOSFET-N
+Added Member To Class: ClassName=BMS Member=Component Q6 MOSFET-N
+Added Member To Class: ClassName=BMS Member=Component Q7 MOSFET-N
+Added Member To Class: ClassName=BMS Member=Component Q8 MOSFET-N
+Added Member To Class: ClassName=BMS Member=Component R8 1k
+Added Member To Class: ClassName=BMS Member=Component R9 1k
+Added Member To Class: ClassName=BMS Member=Component R10 0R
+Added Member To Class: ClassName=BMS Member=Component R11 0R
+Added Member To Class: ClassName=BMS Member=Component R13 4k
+Added Member To Class: ClassName=BMS Member=Component R14 4k
+Added Member To Class: ClassName=BMS Member=Component R15 Res 100k
+Added Member To Class: ClassName=BMS Member=Component U2 LM290

@@ -1,0 +1,267 @@
+Change Component Designator: OldDesignator=Q1_1 NewDesignator=Q1A
+Change Component Designator: OldDesignator=Q1_2 NewDesignator=Q1B
+Change Component Designator: OldDesignator=Q1_3 NewDesignator=Q1C
+Change Component Designator: OldDesignator=Q1_4 NewDesignator=Q1D
+Change Component Designator: OldDesignator=Q1_5 NewDesignator=Q1E
+Change Component Designator: OldDesignator=Q2_1 NewDesignator=Q2A
+Change Component Designator: OldDesignator=Q2_2 NewDesignator=Q2B
+Change Component Designator: OldDesignator=Q2_3 NewDesignator=Q2C
+Change Component Designator: OldDesignator=Q2_4 NewDesignator=Q2D
+Change Component Designator: OldDesignator=Q2_5 NewDesignator=Q2E
+Change Component Designator: OldDesignator=Q3_1 NewDesignator=Q3A
+Change Component Designator: OldDesignator=Q3_2 NewDesignator=Q3B
+Change Component Designator: OldDesignator=Q3_3 NewDesignator=Q3C
+Change Component Designator: OldDesignator=Q3_4 NewDesignator=Q3D
+Change Component Designator: OldDesignator=Q3_5 NewDesignator=Q3E
+Change Component Designator: OldDesignator=Q4_1 NewDesignator=Q4A
+Change Component Designator: OldDesignator=Q4_2 NewDesignator=Q4B
+Change Component Designator: OldDesignator=Q4_3 NewDesignator=Q4C
+Change Component Designator: OldDesignator=Q4_4 NewDesignator=Q4D
+Change Component Designator: OldDesignator=Q4_5 NewDesignator=Q4E
+Change Component Designator: OldDesignator=R1_1 NewDesignator=R1A
+Change Component Designator: OldDesignator=R1_2 NewDesignator=R1B
+Change Component Designator: OldDesignator=R1_3 NewDesignator=R1C
+Change Component Designator: OldDesignator=R1_4 NewDesignator=R1D
+Change Component Designator: OldDesignator=R1_5 NewDesignator=R1E
+Change Component Designator: OldDesignator=R2_1 NewDesignator=R2A
+Change Component Designator: OldDesignator=R2_2 NewDesignator=R2B
+Change Component Designator: OldDesignator=R2_3 NewDesignator=R2C
+Change Component Designator: OldDesignator=R2_4 NewDesignator=R2D
+Change Component Designator: OldDesignator=R2_5 NewDesignator=R2E
+Change Component Designator: OldDesignator=R3_1 NewDesignator=R3A
+Change Component Designator: OldDesignator=R3_2 NewDesignator=R3B
+Change Component Designator: OldDesignator=R3_3 NewDesignator=R3C
+Change Component Designator: OldDesignator=R3_4 NewDesignator=R3D
+Change Component Designator: OldDesignator=R3_5 NewDesignator=R3E
+Change Component Designator: OldDesignator=R4_1 NewDesignator=R4A
+Change Component Designator: OldDesignator=R4_2 NewDesignator=R4B
+Change Component Designator: OldDesignator=R4_3 NewDesignator=R4C
+Change Component Designator: OldDesignator=R4_4 NewDesignator=R4D
+Change Component Designator: OldDesignator=R4_5 NewDesignator=R4E
+Change Component Designator: OldDesignator=R5_1 NewDesignator=R5A
+Change Component Designator: OldDesignator=R5_2 NewDesignator=R5B
+Change Component Designator: OldDesignator=R5_3 NewDesignator=R5C
+Change Component Designator: OldDesignator=R5_4 NewDesignator=R5D
+Change Component Designator: OldDesignator=R5_5 NewDesignator=R5E
+Change Component Designator: OldDesignator=R6_1 NewDesignator=R6A
+Change Component Designator: OldDesignator=R6_2 NewDesignator=R6B
+Change Component Designator: OldDesignator=R6_3 NewDesignator=R6C
+Change Component Designator: OldDesignator=R6_4 NewDesignator=R6D
+Change Component Designator: OldDesignator=R6_5 NewDesignator=R6E
+Change Component Designator: OldDesignator=R7_1 NewDesignator=R7A
+Change Component Designator: OldDesignator=R7_2 NewDesignator=R7B
+Change Component Designator: OldDesignator=R7_3 NewDesignator=R7C
+Change Component Designator: OldDesignator=R7_4 NewDesignator=R7D
+Change Component Designator: OldDesignator=R7_5 NewDesignator=R7E
+Change Component Designator: OldDesignator=U1_1 NewDesignator=U1A
+Change Component Designator: OldDesignator=U1_2 NewDesignator=U1B
+Change Component Designator: OldDesignator=U1_3 NewDesignator=U1C
+Change Component Designator: OldDesignator=U1_4 NewDesignator=U1D
+Change Component Designator: OldDesignator=U1_5 NewDesignator=U1E
+Added Pin To Net: NetName=1IN+A Pin=R2A-1
+Added Pin To Net: NetName=1IN+A Pin=R3A-2
+Added Pin To Net: NetName=1IN+A Pin=U1A-3
+Added Net: Name=1IN+A
+Added Pin To Net: NetName=1IN+B Pin=R2B-1
+Added Pin To Net: NetName=1IN+B Pin=R3B-2
+Added Pin To Net: NetName=1IN+B Pin=U1B-3
+Added Net: Name=1IN+B
+Added Pin To Net: NetName=1IN+C Pin=R2C-1
+Added Pin To Net: NetName=1IN+C Pin=R3C-2
+Added Pin To Net: NetName=1IN+C Pin=U1C-3
+Added Net: Name=1IN+C
+Added Pin To Net: NetName=1IN+D Pin=R2D-1
+Added Pin To Net: NetName=1IN+D Pin=R3D-2
+Added Pin To Net: NetName=1IN+D Pin=U1D-3
+Added Net: Name=1IN+D
+Added Pin To Net: NetName=1IN+E Pin=R2E-1
+Added Pin To Net: NetName=1IN+E Pin=R3E-2
+Added Pin To Net: NetName=1IN+E Pin=U1E-3
+Added Net: Name=1IN+E
+Added Pin To Net: NetName=1OUTA Pin=Q1A-1
+Added Pin To Net: NetName=1OUTA Pin=Q2A-1
+Added Pin To Net: NetName=1OUTA Pin=U1A-1
+Added Net: Name=1OUTA
+Added Pin To Net: NetName=1OUTB Pin=Q1B-1
+Added Pin To Net: NetName=1OUTB Pin=Q2B-1
+Added Pin To Net: NetName=1OUTB Pin=U1B-1
+Added Net: Name=1OUTB
+Added Pin To Net: NetName=1OUTC Pin=Q1C-1
+Added Pin To Net: NetName=1OUTC Pin=Q2C-1
+Added Pin To Net: NetName=1OUTC Pin=U1C-1
+Added Net: Name=1OUTC
+Added Pin To Net: NetName=1OUTD Pin=Q1D-1
+Added Pin To Net: NetName=1OUTD Pin=Q2D-1
+Added Pin To Net: NetName=1OUTD Pin=U1D-1
+Added Net: Name=1OUTD
+Added Pin To Net: NetName=1OUTE Pin=Q1E-1
+Added Pin To Net: NetName=1OUTE Pin=Q2E-1
+Added Pin To Net: NetName=1OUTE Pin=U1E-1
+Added Net: Name=1OUTE
+Added Pin To Net: NetName=2IN+A Pin=R1A-1
+Added Pin To Net: NetName=2IN+A Pin=R2A-2
+Added Pin To Net: NetName=2IN+A Pin=U1A-5
+Added Net: Name=2IN+A
+Added Pin To Net: NetName=2IN+B Pin=R1B-1
+Added Pin To Net: NetName=2IN+B Pin=R2B-2
+Added Pin To Net: NetName=2IN+B Pin=U1B-5
+Added Net: Name=2IN+B
+Added Pin To Net: NetName=2IN+C Pin=R1C-1
+Added Pin To Net: NetName=2IN+C Pin=R2C-2
+Added Pin To Net: NetName=2IN+C Pin=U1C-5
+Added Net: Name=2IN+C
+Added Pin To Net: NetName=2IN+D Pin=R1D-1
+Added Pin To Net: NetName=2IN+D Pin=R2D-2
+Added Pin To Net: NetName=2IN+D Pin=U1D-5
+Added Net: Name=2IN+D
+Added Pin To Net: NetName=2IN+E Pin=R1E-1
+Added Pin To Net: NetName=2IN+E Pin=R2E-2
+Added Pin To Net: NetName=2IN+E Pin=U1E-5
+Added Net: Name=2IN+E
+Added Pin To Net: NetName=2OUTA Pin=Q3A-1
+Added Pin To Net: NetName=2OUTA Pin=Q4A-1
+Added Pin To Net: NetName=2OUTA Pin=U1A-7
+Added Net: Name=2OUTA
+Added Pin To Net: NetName=2OUTB Pin=Q3B-1
+Added Pin To Net: NetName=2OUTB Pin=Q4B-1
+Added Pin To Net: NetName=2OUTB Pin=U1B-7
+Added Net: Name=2OUTB
+Added Pin To Net: NetName=2OUTC Pin=Q3C-1
+Added Pin To Net: NetName=2OUTC Pin=Q4C-1
+Added Pin To Net: NetName=2OUTC Pin=U1C-7
+Added Net: Name=2OUTC
+Added Pin To Net: NetName=2OUTD Pin=Q3D-1
+Added Pin To Net: NetName=2OUTD Pin=Q4D-1
+Added Pin To Net: NetName=2OUTD Pin=U1D-7
+Added Net: Name=2OUTD
+Added Pin To Net: NetName=2OUTE Pin=Q3E-1
+Added Pin To Net: NetName=2OUTE Pin=Q4E-1
+Added Pin To Net: NetName=2OUTE Pin=U1E-7
+Added Net: Name=2OUTE
+Added Pin To Net: NetName=NetQ1A_2 Pin=Q1A-2
+Added Pin To Net: NetName=NetQ1A_2 Pin=Q2A-2
+Added Pin To Net: NetName=NetQ1A_2 Pin=R4A-1
+Added Pin To Net: NetName=NetQ1A_2 Pin=R5A-1
+Added Net: Name=NetQ1A_2
+Added Pin To Net: NetName=NetQ1B_2 Pin=Q1B-2
+Added Pin To Net: NetName=NetQ1B_2 Pin=Q2B-2
+Added Pin To Net: NetName=NetQ1B_2 Pin=R4B-1
+Added Pin To Net: NetName=NetQ1B_2 Pin=R5B-1
+Added Net: Name=NetQ1B_2
+Added Pin To Net: NetName=NetQ1C_2 Pin=Q1C-2
+Added Pin To Net: NetName=NetQ1C_2 Pin=Q2C-2
+Added Pin To Net: NetName=NetQ1C_2 Pin=R4C-1
+Added Pin To Net: NetName=NetQ1C_2 Pin=R5C-1
+Added Net: Name=NetQ1C_2
+Added Pin To Net: NetName=NetQ1D_2 Pin=Q1D-2
+Added Pin To Net: NetName=NetQ1D_2 Pin=Q2D-2
+Added Pin To Net: NetName=NetQ1D_2 Pin=R4D-1
+Added Pin To Net: NetName=NetQ1D_2 Pin=R5D-1
+Added Net: Name=NetQ1D_2
+Added Pin To Net: NetName=NetQ1E_2 Pin=Q1E-2
+Added Pin To Net: NetName=NetQ1E_2 Pin=Q2E-2
+Added Pin To Net: NetName=NetQ1E_2 Pin=R4E-1
+Added Pin To Net: NetName=NetQ1E_2 Pin=R5E-1
+Added Net: Name=NetQ1E_2
+Added Pin To Net: NetName=NetQ3A_2 Pin=Q3A-2
+Added Pin To Net: NetName=NetQ3A_2 Pin=Q4A-2
+Added Pin To Net: NetName=NetQ3A_2 Pin=R6A-1
+Added Pin To Net: NetName=NetQ3A_2 Pin=R7A-1
+Added Net: Name=NetQ3A_2
+Added Pin To Net: NetName=NetQ3B_2 Pin=Q3B-2
+Added Pin To Net: NetName=NetQ3B_2 Pin=Q4B-2
+Added Pin To Net: NetName=NetQ3B_2 Pin=R6B-1
+Added Pin To Net: NetName=NetQ3B_2 Pin=R7B-1
+Added Net: Name=NetQ3B_2
+Added Pin To Net: NetName=NetQ3C_2 Pin=Q3C-2
+Added Pin To Net: NetName=NetQ3C_2 Pin=Q4C-2
+Added Pin To Net: NetName=NetQ3C_2 Pin=R6C-1
+Added Pin To Net: NetName=NetQ3C_2 Pin=R7C-1
+Added Net: Name=NetQ3C_2
+Added Pin To Net: NetName=NetQ3D_2 Pin=Q3D-2
+Added Pin To Net: NetName=NetQ3D_2 Pin=Q4D-2
+Added Pin To Net: NetName=NetQ3D_2 Pin=R6D-1
+Added Pin To Net: NetName=NetQ3D_2 Pin=R7D-1
+Added Net: Name=NetQ3D_2
+Added Pin To Net: NetName=NetQ3E_2 Pin=Q3E-2
+Added Pin To Net: NetName=NetQ3E_2 Pin=Q4E-2
+Added Pin To Net: NetName=NetQ3E_2 Pin=R6E-1
+Added Pin To Net: NetName=NetQ3E_2 Pin=R7E-1
+Added Net: Name=NetQ3E_2
+Added Member To Class: ClassName=BMS Member=Component D1 LedB
+Added Member To Class: ClassName=BMS Member=Component D2 LedR
+Added Member To Class: ClassName=BMS Member=Component D3 Diode Shottky
+Added Member To Class: ClassName=BMS Member=Component D4 Zener 3V
+Added Member To Class: ClassName=BMS Member=Component D5 Zener 3V
+Added Member To Class: ClassName=BMS Member=Component J1 PBS 10x1
+Added Member To Class: ClassName=BMS Member=Component P1 3329H
+Added Member To Class: ClassName=BMS Member=Component P2 3329H
+Added Member To Class: ClassName=bal1 Member=Component Q1A (Q1) BCX54-16
+Added Member To Class: ClassName=bal2 Member=Component Q1B (Q1) BCX54-16
+Added Member To Class: ClassName=bal3 Member=Component Q1C (Q1) BCX54-16
+Added Member To Class: ClassName=bal4 Member=Component Q1D (Q1) BCX54-16
+Added Member To Class: ClassName=bal5 Member=Component Q1E (Q1) BCX54-16
+Added Member To Class: ClassName=bal1 Member=Component Q2A (Q2) BCX51-16
+Added Member To Class: ClassName=bal2 Member=Component Q2B (Q2) BCX51-16
+Added Member To Class: ClassName=bal3 Member=Component Q2C (Q2) BCX51-16
+Added Member To Class: ClassName=bal4 Member=Component Q2D (Q2) BCX51-16
+Added Member To Class: ClassName=bal5 Member=Component Q2E (Q2) BCX51-16
+Added Member To Class: ClassName=bal1 Member=Component Q3A (Q3) BCX54-16
+Added Member To Class: ClassName=bal2 Member=Component Q3B (Q3) BCX54-16
+Added Member To Class: ClassName=bal3 Member=Component Q3C (Q3) BCX54-16
+Added Member To Class: ClassName=bal4 Member=Component Q3D (Q3) BCX54-16
+Added Member To Class: ClassName=bal5 Member=Component Q3E (Q3) BCX54-16
+Added Member To Class: ClassName=bal1 Member=Component Q4A (Q4) BCX51-16
+Added Member To Class: ClassName=bal2 Member=Component Q4B (Q4) BCX51-16
+Added Member To Class: ClassName=bal3 Member=Component Q4C (Q4) BCX51-16
+Added Member To Class: ClassName=bal4 Member=Component Q4D (Q4) BCX51-16
+Added Member To Class: ClassName=bal5 Member=Component Q4E (Q4) BCX51-16
+Added Member To Class: ClassName=BMS Member=Component Q5 MOSFET-N
+Added Member To Class: ClassName=BMS Member=Component Q6 MOSFET-N
+Added Member To Class: ClassName=bal1 Member=Component R1A (R1) 10k
+Added Member To Class: ClassName=bal2 Member=Component R1B (R1) 10k
+Added Member To Class: ClassName=bal3 Member=Component R1C (R1) 10k
+Added Member To Class: ClassName=bal4 Member=Component R1D (R1) 10k
+Added Member To Class: ClassName=bal5 Member=Component R1E (R1) 10k
+Added Member To Class: ClassName=bal1 Member=Component R2A (R2) 10k
+Added Member To Class: ClassName=bal2 Member=Component R2B (R2) 10k
+Added Member To Class: ClassName=bal3 Member=Component R2C (R2) 10k
+Added Member To Class: ClassName=bal4 Member=Component R2D (R2) 10k
+Added Member To Class: ClassName=bal5 Member=Component R2E (R2) 10k
+Added Member To Class: ClassName=bal1 Member=Component R3A (R3) 10k
+Added Member To Class: ClassName=bal2 Member=Component R3B (R3) 10k
+Added Member To Class: ClassName=bal3 Member=Component R3C (R3) 10k
+Added Member To Class: ClassName=bal4 Member=Component R3D (R3) 10k
+Added Member To Class: ClassName=bal5 Member=Component R3E (R3) 10k
+Added Member To Class: ClassName=bal1 Member=Component R4A (R4) 62R
+Added Member To Class: ClassName=bal2 Member=Component R4B (R4) 62R
+Added Member To Class: ClassName=bal3 Member=Component R4C (R4) 62R
+Added Member To Class: ClassName=bal4 Member=Component R4D (R4) 62R
+Added Member To Class: ClassName=bal5 Member=Component R4E (R4) 62R
+Added Member To Class: ClassName=bal1 Member=Component R5A (R5) 62R
+Added Member To Class: ClassName=bal2 Member=Component R5B (R5) 62R
+Added Member To Class: ClassName=bal3 Member=Component R5C (R5) 62R
+Added Member To Class: ClassName=bal4 Member=Component R5D (R5) 62R
+Added Member To Class: ClassName=bal5 Member=Component R5E (R5) 62R
+Added Member To Class: ClassName=bal1 Member=Component R6A (R6) 62R
+Added Member To Class: ClassName=bal2 Member=Component R6B (R6) 62R
+Added Member To Class: ClassName=bal3 Member=Component R6C (R6) 62R
+Added Member To Class: ClassName=bal4 Member=Component R6D (R6) 62R
+Added Member To Class: ClassName=bal5 Member=Component R6E (R6) 62R
+Added Member To Class: ClassName=bal1 Member=Component R7A (R7) 62R
+Added Member To Class: ClassName=bal2 Member=Component R7B (R7) 62R
+Added Member To Class: ClassName=bal3 Member=Component R7C (R7) 62R
+Added Member To Class: ClassName=bal4 Member=Component R7D (R7) 62R
+Added Member To Class: ClassName=bal5 Member=Component R7E (R7) 62R
+Added Member To Class: ClassName=BMS Member=Component R8 1k
+Added Member To Class: ClassName=BMS Member=Component R9 1k
+Added Member To Class: ClassName=BMS Member=Component R10 Res 100k
+Added Member To Class: ClassName=BMS Member=Component R11 4k
+Added Member To Class: ClassName=BMS Member=Component R12 4k
+Added Member To Class: ClassName=BMS Member=Component R13 Res 100k
+Added Member To Class: ClassName=bal1 Member=Component U1A (U1) OpAmp
+Added Member To Class: ClassName=bal2 Member=Component U1B (U1) OpAmp
+Added Member To Class: ClassName=bal3 Member=Component U1C (U1) OpAmp
+Added Member To Class: ClassName=bal4 Member=Component U1D (U1) OpAmp
+Added Member To Class: ClassName=bal5 Member=Component U1E (U1) OpAmp
+Added Member To Class: ClassName=BMS Member=Component U2 LM290

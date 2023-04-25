@@ -1,0 +1,27 @@
+Change component parameters: Designator = "J1" ("J1"); Footprint = "PBS10"; UniqueID = "\RJYLKRKD" ("\RJYLKRKD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/pbs-10r"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ningbo connfly electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "DS1023-1*10S21"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J2(Bolt M5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connetctor"; VariantName = "[No Variations]"
+Added Component: Designator=J3(Bolt M5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connetctor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B- Pin=J2-1
+Added Pin To Net: NetName=B+ Pin=J3-1
+Added Member To Class: ClassName=BMS Member=Component J2 Bolt M5
+Added Member To Class: ClassName=BMS Member=Component J3 Bolt M5
+Added Room: Name=BMS

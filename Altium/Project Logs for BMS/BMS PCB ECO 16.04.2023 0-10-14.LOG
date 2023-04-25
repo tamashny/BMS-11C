@@ -1,0 +1,13 @@
+Added Member To Class: ClassName=BMS Member=Component D3 Diode Shottky
+Added Member To Class: ClassName=BMS Member=Component D4 Zener 3V
+Added Member To Class: ClassName=BMS Member=Component Q5 MOSFET-N
+Added Member To Class: ClassName=BMS Member=Component R10 Res 100k
+Added Member To Class: ClassName=BMS Member=Component R11 4k
+Added Member To Class: ClassName=BMS Member=Component R12 4k
+Added Member To Class: ClassName=BMS Member=Component R13 Res 100k
+Added Room: Name=Balancer1
+Added Room: Name=Balancer2
+Added Room: Name=Balancer3
+Added Room: Name=Balancer4
+Added Room: Name=Balancer5
+Added Room: Name=BMS

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=OUT2 Pin=Q5-1
+Removed Pin From Net: NetName=1IN-A Pin=Q5-2
+Removed Pin From Net: NetName=Out Pin=Q5-3
+Removed Pin From Net: NetName=OUT2 Pin=Q8-1
+Removed Pin From Net: NetName=1IN-A Pin=Q8-2
+Removed Pin From Net: NetName=Out Pin=Q8-3
+Removed Pin From Net: NetName=OUT1 Pin=R10-1
+Removed Pin From Net: NetName=NetD1_1 Pin=R10-2
+Removed Pin From Net: NetName=OUT2 Pin=R11-1
+Removed Pin From Net: NetName=NetD2_1 Pin=R11-2
+Removed Member From Class: ClassName=BMS Member=Q5
+Removed Member From Class: ClassName=BMS Member=Q8
+Removed Member From Class: ClassName=BMS Member=R15
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R13 NewDesignator=R11
+Change Component Designator: OldDesignator=R14 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Added Component: Designator=D?(D2-PAK (TO-262))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ChipDip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/mbrb20100ctg-ons"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1IN-A Pin=D?-1
+Added Pin To Net: NetName=Out Pin=D?-2
+Added Pin To Net: NetName=1IN-A Pin=D?-3
+Added Member To Class: ClassName=BMS Member=Component D? Diode Shottky
+Added Member To Class: ClassName=BMS Member=Component P2 3329H
+Added Room: Name=BMS

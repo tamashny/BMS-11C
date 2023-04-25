@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=B+ Pin=D3-1
+Added Pin To Net: NetName=B+ Pin=D3-3
+Added Pin To Net: NetName=B- Pin=D5-1
+Added Pin To Net: NetName=B- Pin=P2-1
+Added Pin To Net: NetName=B+ Pin=Q5-3
+Added Pin To Net: NetName=B+ Pin=Q6-2
+Added Pin To Net: NetName=B1 Pin=R4A-2
+Added Pin To Net: NetName=B4 Pin=R8-2
+Added Pin To Net: NetName=B4 Pin=R9-2
+Added Pin To Net: NetName=B+ Pin=R10-2
+Added Pin To Net: NetName=B4 Pin=R11-2
+Added Pin To Net: NetName=B4 Pin=R12-2
+Added Pin To Net: NetName=B+ Pin=R13-2
+Added Pin To Net: NetName=B- Pin=U2-4
+Added Pin To Net: NetName=B4 Pin=U2-8
+Added Pin To Net: NetName=1IN- Pin=P1-2
+Added Pin To Net: NetName=1IN- Pin=U2-2
+Added Net: Name=1IN-
+Added Pin To Net: NetName=2IN+ Pin=P2-2
+Added Pin To Net: NetName=2IN+ Pin=U2-5
+Added Net: Name=2IN+
+Added Pin To Net: NetName=P- Pin=D4-1
+Added Pin To Net: NetName=P- Pin=P1-1
+Added Net: Name=P-
